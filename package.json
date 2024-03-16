@@ -1,0 +1,15 @@
+{
+  "name": "wa-cleaner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yogi Rampuria",
+  "license": "ISC",
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0"
+  }
+}

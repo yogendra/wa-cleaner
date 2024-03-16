@@ -2,3 +2,4 @@ node_modules
 .private/
 .direnv/
 .wwebjs_cache/
+*.log

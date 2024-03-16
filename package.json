@@ -1,15 +1,18 @@
 {
   "name": "wa-cleaner",
   "version": "1.0.0",
-  "description": "",
+  "description": "App to clean bulk clean whats. Delete chats",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Yogi Rampuria",
   "license": "ISC",
   "dependencies": {
+    "commander": "^12.0.0",
+    "qrcode-terminal": "^0.12.0",
     "whatsapp-web.js": "^1.23.0"
   }
 }
